@@ -16,6 +16,6 @@ void main() {
   b = a - b; // b now becomes 10 (30 - 20)
   a = a - b; // a now becomes 20 (30 - 10)
 
-  // Print swapped values
+  // Print swap after  values
   print('After swap: a = $a, b = $b');
 }
